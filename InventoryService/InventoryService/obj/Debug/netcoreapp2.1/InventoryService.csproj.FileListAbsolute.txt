@@ -1,0 +1,14 @@
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.csprojAssemblyReference.cache
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorAssemblyInfo.cache
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorAssemblyInfo.cs
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.AssemblyInfoInputs.cache
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.AssemblyInfo.cs
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.deps.json
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.runtimeconfig.json
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.runtimeconfig.dev.json
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.dll
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.pdb
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorTargetAssemblyInfo.cache
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.dll
+C:\Users\Hitesh-Pc\Desktop\moh\Web Api\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.pdb
